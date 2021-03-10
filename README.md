@@ -82,7 +82,7 @@ MTproto protocol manuals: https://core.telegram.org/mtproto
 
 ## Building
 
-**NOTE: Building on Windows is, unfortunately, not supported.
+**NOTE: Building  is, unfortunately, not supported.
 Consider using a Linux VM or dual booting.**
 ![WindowsSupport](/tgfoss-build-under-win.gif?raw=true)
 
